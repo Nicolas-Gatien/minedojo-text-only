@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "url": "https://minecraft.fandom.com/wiki/Bone_(disambiguation)",
+        "title": "Bone_(disambiguation)",
+        "time": "17/04/2022 01:07:59"
+    },
+    "tables": [],
+    "images": [
+        {
+            "src": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fd/Disambig_color.svg",
+            "path": "images/Disambig color.png",
+            "alt_text": "Disambig color",
+            "caption": null,
+            "bbox": [
+                216.046875,
+                954.859375,
+                20,
+                15
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "text": "Bone",
+            "bbox": [
+                238.046875,
+                466,
+                16,
+                16
+            ]
+        },
+        {
+            "text": "Bone meal",
+            "bbox": [
+                238.046875,
+                490.5,
+                16,
+                16
+            ]
+        },
+        {
+            "text": "Bone block",
+            "bbox": [
+                238.046875,
+                539.5,
+                16,
+                16
+            ]
+        },
+        {
+            "text": "Bone Spider",
+            "bbox": [
+                238.046875,
+                634,
+                16,
+                16
+            ]
+        },
+        {
+            "text": "Bone Shard",
+            "bbox": [
+                238.046875,
+                658.5,
+                16,
+                16
+            ]
+        },
+        {
+            "text": "Bonebow",
+            "bbox": [
+                238.046875,
+                756.359375,
+                24,
+                24
+            ]
+        },
+        {
+            "text": "Tasty Bone",
+            "bbox": [
+                238.046875,
+                780.859375,
+                24,
+                24
+            ]
+        }
+    ],
+    "texts": [
+        {
+            "text": "Bone (disambiguation)",
+            "bbox": [
+                202.046875,
+                349.5,
+                593,
+                45
+            ]
+        },
+        {
+            "text": "Bone may refer to:",
+            "bbox": [
+                202.046875,
+                414.5,
+                726,
+                25
+            ]
+        },
+        {
+            "text": "Bone, an item which is dropped by fish\u200c[Bedrock Edition only] and skeletons, or obtained from fishing.\nBone meal, an item crafted out of bones, dropped by fish\u200c[Java Edition only] or from a composter which is used to grow crops quicker.\nBone block, a block crafted from 9 bone meal and generates naturally as a fossil.",
+            "bbox": [
+                238.046875,
+                463,
+                690,
+                98
+            ]
+        },
+        {
+            "text": "Minecraft Earth",
+            "bbox": [
+                202.046875,
+                579,
+                726,
+                43
+            ]
+        },
+        {
+            "text": "Bone Spider, a spider with skeleton texture\nBone Shard, a projectile shot by bone spider.",
+            "bbox": [
+                238.046875,
+                631,
+                690,
+                49
+            ]
+        },
+        {
+            "text": "Minecraft Dungeons",
+            "bbox": [
+                202.046875,
+                704,
+                726,
+                43
+            ]
+        },
+        {
+            "text": "Bonebow, a unique variant of bow In Minecraft Dungeons\nTasty Bone, a artifact used to summon a dog",
+            "bbox": [
+                238.046875,
+                756,
+                690,
+                49
+            ]
+        },
+        {
+            "text": "See Also",
+            "bbox": [
+                202.046875,
+                823,
+                726,
+                43
+            ]
+        },
+        {
+            "text": "Skeleton (disambiguation)\nTutorials/Bone meal farming",
+            "bbox": [
+                238.046875,
+                875,
+                690,
+                49
+            ]
+        }
+    ]
+}

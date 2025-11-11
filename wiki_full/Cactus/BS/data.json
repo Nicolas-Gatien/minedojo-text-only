@@ -1,0 +1,220 @@
+{
+    "metadata": {
+        "url": "https://minecraft.fandom.com/wiki/Cactus/BS",
+        "title": "Cactus/BS",
+        "time": "17/04/2022 00:45:44"
+    },
+    "tables": [
+        {
+            "bbox": [
+                202.046875,
+                505.890625,
+                725,
+                455
+            ],
+            "headers": {
+                "text": [
+                    "Name",
+                    "Default value",
+                    "Allowed values",
+                    "Description",
+                    "age"
+                ],
+                "bboxes": [
+                    [
+                        202.546875,
+                        506.390625,
+                        51,
+                        55
+                    ],
+                    [
+                        253.734375,
+                        506.390625,
+                        91,
+                        55
+                    ],
+                    [
+                        345.4375,
+                        506.390625,
+                        102,
+                        55
+                    ],
+                    [
+                        446.640625,
+                        506.390625,
+                        480,
+                        55
+                    ],
+                    [
+                        202.546875,
+                        561.984375,
+                        51,
+                        398
+                    ]
+                ]
+            },
+            "cells": {
+                "text": [
+                    "0",
+                    "0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15",
+                    "A freshly-planted cactus \u2013 and a cactus that has just grown cactus above it \u2013 each have an age of 0.\nThe age is incremented at random intervals.\nAt age 15, a cactus may try to grow more cactus above it."
+                ],
+                "bboxes": [
+                    [
+                        253.734375,
+                        561.984375,
+                        91,
+                        398
+                    ],
+                    [
+                        345.4375,
+                        561.984375,
+                        102,
+                        398
+                    ],
+                    [
+                        446.640625,
+                        561.984375,
+                        480,
+                        398
+                    ]
+                ]
+            }
+        },
+        {
+            "bbox": [
+                202.046875,
+                1037.578125,
+                725,
+                479
+            ],
+            "headers": {
+                "text": [
+                    "Name",
+                    "Metadata Bits",
+                    "Default value",
+                    "Allowed values",
+                    "Values for\nMetadata Bits",
+                    "Description",
+                    "age"
+                ],
+                "bboxes": [
+                    [
+                        202.546875,
+                        1038.078125,
+                        51,
+                        80
+                    ],
+                    [
+                        253.734375,
+                        1038.078125,
+                        92,
+                        80
+                    ],
+                    [
+                        345.859375,
+                        1038.078125,
+                        80,
+                        80
+                    ],
+                    [
+                        426.21875,
+                        1038.078125,
+                        88,
+                        80
+                    ],
+                    [
+                        513.8125,
+                        1038.078125,
+                        92,
+                        80
+                    ],
+                    [
+                        605.9375,
+                        1038.078125,
+                        321,
+                        80
+                    ],
+                    [
+                        202.546875,
+                        1118.171875,
+                        51,
+                        398
+                    ]
+                ]
+            },
+            "cells": {
+                "text": [
+                    "0x1\n0x2\n0x4\n0x8",
+                    "0",
+                    "0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15",
+                    "0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15",
+                    "A freshly-planted cactus \u2013 and a cactus that has just grown cactus above it \u2013 each have an age of 0.\nThe age is incremented at random intervals.\nAt age 15, a cactus may try to grow more cactus above it."
+                ],
+                "bboxes": [
+                    [
+                        253.734375,
+                        1118.171875,
+                        92,
+                        398
+                    ],
+                    [
+                        345.859375,
+                        1118.171875,
+                        80,
+                        398
+                    ],
+                    [
+                        426.21875,
+                        1118.171875,
+                        88,
+                        398
+                    ],
+                    [
+                        513.8125,
+                        1118.171875,
+                        92,
+                        398
+                    ],
+                    [
+                        605.9375,
+                        1118.171875,
+                        321,
+                        398
+                    ]
+                ]
+            }
+        }
+    ],
+    "images": [],
+    "sprites": [],
+    "texts": [
+        {
+            "text": "Cactus/BS",
+            "bbox": [
+                202.046875,
+                353.890625,
+                593,
+                45
+            ]
+        },
+        {
+            "text": "Java Edition",
+            "bbox": [
+                202.046875,
+                443.390625,
+                726,
+                25
+            ]
+        },
+        {
+            "text": "Bedrock Edition",
+            "bbox": [
+                202.046875,
+                975.078125,
+                726,
+                24
+            ]
+        }
+    ]
+}
